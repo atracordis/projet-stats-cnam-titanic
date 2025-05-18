@@ -24,6 +24,11 @@ author:
   - Wajd MESKINI^[wajd.meskini@gmail.com, +33 6 98 26 72 53]
 ---
 
+Le projet est disponible sous un formal lisible (notebook Python) à l'url [github](https://github.com/atracordis/projet-stats-cnam-titanic/blob/main/Python_Projet_STA201_Wajd_Meskini_Kaouther_Makhlouf.ipynb
+)
+
+
+
 # Installation de Python et construction de l'environnement
 
 Ce bloc permet à un utilisateur de Rmarkdown de :
